@@ -64,38 +64,50 @@
 
 🔴ROJO
 
+<img width="1521" height="672" alt="imagen" src="https://github.com/user-attachments/assets/4aef2f43-ff2c-47f4-aa26-4af4c6c62d8d" />
 
 🟢VERDE
 
+<img width="1536" height="558" alt="imagen" src="https://github.com/user-attachments/assets/5558e742-0ed1-45de-aa99-96a622bdca4b" />
 
 # RONDA 8
 
 🔴ROJO
 
+<img width="1528" height="679" alt="imagen" src="https://github.com/user-attachments/assets/90107f51-70fd-48ba-88ac-a0c75df9756d" />
 
 🟢VERDE
 
+<img width="1516" height="553" alt="imagen" src="https://github.com/user-attachments/assets/c18df970-c335-4e76-9c96-6aeecdd25a5b" />
 
 # RONDA 9
 
 🔴ROJO
 
+<img width="1519" height="687" alt="imagen" src="https://github.com/user-attachments/assets/4a41522e-b4ee-4762-97e9-3489ffea9d5c" />
 
 🟢VERDE
 
+<img width="1522" height="568" alt="imagen" src="https://github.com/user-attachments/assets/9a37b6cb-9301-4a38-8f64-850e811a439f" />
 
 # RONDA 10
 
 🔴ROJO
 
+<img width="1519" height="685" alt="imagen" src="https://github.com/user-attachments/assets/2f5ece88-e637-41a1-9ca0-dc66ca08ba82" />
 
 🟢VERDE
 
+<img width="1525" height="649" alt="imagen" src="https://github.com/user-attachments/assets/eb016cc5-0ed1-43f9-9ea0-ba76999d8212" />
 
-# RONDA 
+# APP FUNCIONANDO
 
-🔴ROJO
+<img width="696" height="1380" alt="imagen" src="https://github.com/user-attachments/assets/db5a54b7-171b-40e1-8726-e2835446ce07" />
 
+<img width="688" height="1378" alt="imagen" src="https://github.com/user-attachments/assets/41fc569e-8892-4625-a0bd-75aa3e44d079" />
 
-🟢VERDE
+<img width="709" height="1377" alt="imagen" src="https://github.com/user-attachments/assets/45ac8065-6b25-47e6-aac7-e0d5c5e7d6ff" />
 
+<img width="687" height="1374" alt="imagen" src="https://github.com/user-attachments/assets/b74ba450-acd3-41cd-acf5-57b884359c73" />
+
+<img width="691" height="1366" alt="imagen" src="https://github.com/user-attachments/assets/52378fb3-18bb-4725-bd42-6ea908b39280" />
